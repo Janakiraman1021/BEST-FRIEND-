@@ -69,6 +69,16 @@ body {
 ::-webkit-scrollbar-thumb {
   background: transparent;
 }
+.submitButton{
+  background-color: transparent;
+  text-transform: capitalize;
+  font-family: inherit;
+  font-size: 18px;
+}
+.submitButton:hover{
+  cursor: pointer;
+
+}
 a {
   display: inline-block;
   text-decoration: none;
