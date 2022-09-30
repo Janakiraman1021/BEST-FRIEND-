@@ -47,6 +47,25 @@ body {
   background: transparent;  /* Optional: just make scrollbar invisible */
 }
 /* Optional: show position indicator in red */
+.jobDetails{
+  list-style: disc; 
+  color: #b2becd;
+  margin-bottom: 5px;
+ }
+ .iconSize{
+  height: 56px;
+  fill: var(--color-white);
+ }
+ .iconSize:hover{
+  fill: var(--color-secondary);
+ }
+ .iconUL{
+  display: flex;
+ }
+ li.iconLi {
+  margin-right: 45px;
+  margin-bottom: 20px;
+ }
 ::-webkit-scrollbar-thumb {
   background: transparent;
 }
