@@ -332,23 +332,44 @@ section {
   transition: all 0.4s ease-in-out;
   width: 60%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .html {
+.about-stats .progress-bars .progress-bar .progress-con .progress .node {
   width: 80%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .css {
+.about-stats .progress-bars .progress-bar .progress-con .progress .express {
   width: 95%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 75%;
+  width: 80%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .angular {
+  width: 65%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .Microservice {
+  width: 77%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .react {
   width: 60%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .node {
+.about-stats .progress-bars .progress-bar .progress-con .progress .restapi {
+  width: 85%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .mongodb {
+  width: 89%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .teamwork {
+  width: 99%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .teamwork {
+  width: 90%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .agile {
   width: 87%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .python {
-  width: 70%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .architecture {
+  width: 79%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .api {
+  width: 73%;
 }
 
 .stat-title {
