@@ -59,6 +59,9 @@ body {
  .iconSize:hover{
   fill: var(--color-secondary);
  }
+ .hideCur{
+  cursor: not-allowed !important;
+ }
  .iconUL{
   display: flex;
  }
@@ -512,6 +515,8 @@ section {
   font-size: 1.5rem;
   color: var(--color-white);
   margin-bottom: 1.5rem;
+  text-align: center;
+  padding: 15px;
 }
 .portfolios .portfolio-item .hover-items .icons {
   display: flex;
